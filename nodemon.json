@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "Sejal",
+        "MONGO_PASSWORD": "mongodb123",
+        "MONGO_DEFAULT_DATABASE": "shop",
+        "STRIPE_KEY": "sk_test_51HzJtED3YnSFKpD5mC7LwRXYNYoNaj0h9qQ6r3mqDCOj6BKnVSW7tfwvtwOvoXjT2DaiuECI4gBomVibGh8JZuYo00Ao6JXsmU"
+    }
+}
